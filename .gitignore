@@ -1,0 +1,5 @@
+EpilepsyIISGeneralizedLinearModelProject/data/*
+EpilepsyIISThresholdProject/data/*
+GamblingTaskEEGProject/data/*
+SimonGameEEGProject/data/*
+*.mat
